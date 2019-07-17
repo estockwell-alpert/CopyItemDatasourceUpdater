@@ -11,7 +11,7 @@ using Sitecore.Globalization;
 using Sitecore.Layouts;
 using Sitecore.Shell.Applications.Dialogs.ProgressBoxes;
 
-namespace CopyItemDatasourceUpdater.Pipeline
+namespace CopyItemDatasourceUpdater.Classes
 {
     /// <summary>
     ///     Class used to update datasources in Shared Layout and Final Layout field, when copying trees in Sitecore.
